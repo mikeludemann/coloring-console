@@ -1,0 +1,23 @@
+{
+  "name": "coloring-console",
+  "version": "1.0.0",
+  "description": "Coloring all informations in the console",
+  "main": "coloring-console.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/coloring-console.git"
+  },
+  "keywords": [
+    "console",
+    "coloring"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/coloring-console/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/coloring-console#readme"
+}
